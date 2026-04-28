@@ -1,0 +1,9 @@
+alap
+*.o
+*.out
+build/
+dist/
+main.c
+Main.java
+main.py
+main.sh
