@@ -121,7 +121,7 @@ void generate_file(const char *template_id)
         return;
     }
 
-    fprintf(fp, "%s", templates[index].source_code);
+    fprintf(fp, "%s", source_code);
 
     fclose(fp);
 
