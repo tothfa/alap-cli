@@ -37,10 +37,10 @@ const char bash_source_code[] =
     "echo \"Hello World!\"\n";
 
 const char version[] =
-    "alap v0.3.0\n";
+    "alap v0.3.1\n";
 
 const char help_text[] =
-    "alap v0.3.0\n"
+    "alap v0.3.1\n"
     "\n"
     "USAGE:\n"
     "  alap <template_id> [OPTION]\n"
